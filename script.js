@@ -1,1 +1,1 @@
-console.log("Loaded, Yay!")
+console.log("LOL why are you inspecting my website?")

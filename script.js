@@ -13,5 +13,5 @@ class Link {
 }
 
 let myGit = new Link("https://github.com/Crawford-Patten")
-
-myGit.goTo()
+let thisGit = new Link("https://github.com/Crawford-Patten/Crawford-Patten.github.io")
+let lastLink = new Link("https://youtube.com")

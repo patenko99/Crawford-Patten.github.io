@@ -14,4 +14,4 @@ class Link {
 
 let myGit = new Link("https://github.com/Crawford-Patten")
 
-Link.goTo(myGit)
+myGit.goTo()

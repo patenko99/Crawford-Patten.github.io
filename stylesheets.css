@@ -3,11 +3,11 @@ body {
 }
 span.b {
   display: inline-block;
-  width: 100px;
-  height: 100px;
-  padding: 5px;
+  width: 200px;
+  /*height: 100px;
+  padding: 5px;*/
   border: 1px solid blue;
-  background-color: yellow;
-  margin: 15px;
+  background-color: lightgrey;
+  margin: 25px;
   border-radius: 25px;
 }

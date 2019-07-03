@@ -10,4 +10,5 @@ span.b {
   background-color: lightgrey;
   margin: 25px;
   border-radius: 25px;
+  line-height: 7;
 }
